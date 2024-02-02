@@ -12,3 +12,4 @@ C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\refint\YouTube.dll
 C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\YouTube.pdb
 C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\YouTube.genruntimeconfig.cache
 C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\ref\YouTube.dll
+C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\YouTube.sourcelink.json
