@@ -1,0 +1,14 @@
+C:\Users\kavee\source\repos\YouTube\YouTube\bin\Debug\net8.0\YouTube.exe
+C:\Users\kavee\source\repos\YouTube\YouTube\bin\Debug\net8.0\YouTube.deps.json
+C:\Users\kavee\source\repos\YouTube\YouTube\bin\Debug\net8.0\YouTube.runtimeconfig.json
+C:\Users\kavee\source\repos\YouTube\YouTube\bin\Debug\net8.0\YouTube.dll
+C:\Users\kavee\source\repos\YouTube\YouTube\bin\Debug\net8.0\YouTube.pdb
+C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\YouTube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\YouTube.AssemblyInfoInputs.cache
+C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\YouTube.AssemblyInfo.cs
+C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\YouTube.csproj.CoreCompileInputs.cache
+C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\YouTube.dll
+C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\refint\YouTube.dll
+C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\YouTube.pdb
+C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\YouTube.genruntimeconfig.cache
+C:\Users\kavee\source\repos\YouTube\YouTube\obj\Debug\net8.0\ref\YouTube.dll
